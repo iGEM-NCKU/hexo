@@ -27,13 +27,13 @@ date: 2025-06-24 14:58:35
 
 ![Jerry](/members/IMG_7594-1.JPG)
 
-### Sue
-
-![Sue](/members/IMG_7634-1.JPG)
-
 ### Yin
 
-![Yin](/members/IMG_7603-1.JPG)
+![Yin](/members/IMG_7634-1.JPG)
+
+### Sue
+
+![Sue](/members/IMG_7603-1.JPG)
 
 ## Drylab
 
