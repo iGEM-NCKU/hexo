@@ -44,3 +44,9 @@ date: 2025-06-24 14:58:35
 ### Johan
 
 ![Johan](/members/IMG_7633-1.JPG)
+
+## Professor
+
+### Prof. Masa
+
+![Prof](/members/prof.png)
