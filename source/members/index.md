@@ -45,8 +45,12 @@ date: 2025-06-24 14:58:35
 
 ![Johan](/members/IMG_7633-1.JPG)
 
-## Professor
+### Amber
 
-### Prof. Masa
+![Amber](/members/IMG_7643-1.JPG)
+
+## PI
+
+### Masayuki Hashimoto
 
 ![Prof](/members/prof.png)
