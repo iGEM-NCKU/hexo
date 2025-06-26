@@ -54,3 +54,7 @@ date: 2025-06-24 14:58:35
 ### Masayuki Hashimoto
 
 ![Prof](/members/prof.png)
+
+### Cheng-Li Lin
+
+![doctor](/members/doctor-lin.jpg)
