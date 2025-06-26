@@ -2,12 +2,12 @@
 menu:                      # Links in the navigation bar
   Home: /
 #  Archives: /archives
-  About: /about
+  # About: /about
   Medal: /medal
-  Attributions: /attributions
+  # Attributions: /attributions
 #  Contribution: /contribution
-  Description: /description
-  Education: /education
+  # Description: /description
+  # Education: /education
 #  Engineering: /engineering
 #  Entrepreneurship: /entrepreneurship
 #  Experiments: /experiments
@@ -19,7 +19,7 @@ menu:                      # Links in the navigation bar
   Model: /model
 #  Notebook: /notebook
 #  Plant: /plant
-  Results: /results
+  # Results: /results
 #  Safety-And-Security: /safety-and-security
   Software: /software
 #  Sustainability: /sustainability
